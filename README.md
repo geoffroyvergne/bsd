@@ -4,3 +4,4 @@
 PROMPT='%n%f@%m%f %d%f %# '
 
 
+~

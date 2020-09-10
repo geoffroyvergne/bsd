@@ -1,0 +1,1 @@
+/usr/local/bin/vmhgfs-fuse .host:/dev /mnt/share/dev/ -o allow_other -o uid=1001 tee /etc/rc.local
