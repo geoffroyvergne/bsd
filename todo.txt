@@ -1,1 +1,7 @@
-add custom prompt to openbsd zsh
+openbsd : 
+time date decallé after reacrivate
+lldb not working
+
+netbsd : 
+autocomplete command not working
+
