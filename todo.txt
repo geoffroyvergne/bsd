@@ -1,10 +1,13 @@
-<<<<<<< HEAD
+
+doas ?
+
+freebsd : 
+
 openbsd : 
-time date decallé after reacrivate
-lldb not working
+- time date decallé after reacrivate
+- lldb not working
 
 netbsd : 
-autocomplete command not working
+- pkg update ?
+- change slim template
 
-=======
->>>>>>> ba190ea1350cf8ad4f4dd6f9b2c6742fac06e1af
