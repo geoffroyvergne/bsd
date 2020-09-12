@@ -6,4 +6,4 @@ xdm_enable="YES"
 
 
 # upgrade
-pkg_upgrade
+pkg upgrade

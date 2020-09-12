@@ -4,10 +4,7 @@ doas ?
 freebsd : 
 
 openbsd : 
-- time date decallé after reacrivate
 - lldb not working
+- bdb dwarf error wrong version is 4 should be 2
 
 netbsd : 
-- pkg update ?
-- change slim template
-
